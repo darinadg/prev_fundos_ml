@@ -23,4 +23,4 @@ Estudante de Ciência de Dados (UNIVESP), atualmente no 4º período, com intere
 
 Gráfico comparando IPCA e taxa SELIC ao longo do tempo:
 
-![IPCA vs SELIC](imagens/grafico_ipca_selic.png)
+![IPCA vs SELIC](grafico_ipca_selic.png)
