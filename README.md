@@ -12,15 +12,13 @@ Etapas realizadas: Coleta de dados históricos (IPEADATA); Tratamento e limpeza 
 Resultados iniciais: Houve baixa correlação entre IPCA e as variáveis analisadas; Modelo com baixo poder predição, pequena melhora ao incluir defasagens da SELIC.
 Inicialmente tudo indica que o comportamento da inflação depende de múltiplos fatores além dos analisados.
 
-Status do projeto: Em desenvolvimento, este projeto faz parte do meu processo de aprendizado em Ciência de Dados.
-
 Tecnologias utilizadas: Python, Pandas, Matplottlib, Scikit-learn.
+
+Status do projeto: Em desenvolvimento, este projeto faz parte do meu processo de aprendizado em Ciência de Dados. Algumas etapas de coleta e tratamento de dados ainda estão sendo ajustadas, podendo conter erros temporários no notebook. O objetivo é evoluir progressivamente o modelo e a análise ao longo do tempo.
+
 
 Sobre mim:
 Estudante de Ciência de Dados (UNIVESP), atualmente no 4º período, com interesse em Inteligência Artificial, análise de dados e economia.
-
-
-
 
 
 Gráfico comparando IPCA e taxa SELIC ao longo do tempo:
