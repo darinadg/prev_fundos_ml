@@ -18,3 +18,9 @@ Tecnologias utilizadas: Python, Pandas, Matplottlib, Scikit-learn.
 
 Sobre mim:
 Estudante de Ciência de Dados (UNIVESP), atualmente no 4º período, com interesse em Inteligência Artificial, análise de dados e economia.
+
+
+
+Gráfico comparando IPCA e taxa SELIC ao longo do tempo:
+
+![IPCA vs SELIC](imagens/grafico_ipca_selic.png)
